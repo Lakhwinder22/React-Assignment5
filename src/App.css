@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+}
+
+.App{
+text-align: center;
+}
+
+.cp{
+ margin: 50px;
+ background: #1a8056;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0bcecb, #061253);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #00ece8, #040e42); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+padding: 20px;
+}
+
+.hoc{
+  background:red;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #e7096d, #d9ff2f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #8a0641, #c8ff2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin: 50px;
+}
